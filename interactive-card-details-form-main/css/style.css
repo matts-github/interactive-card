@@ -110,3 +110,9 @@ form {
 input {
   width: 202%;
 }
+
+@media screen and (min-width: 1200px) {
+  body {
+    display: flex;
+  }
+}
