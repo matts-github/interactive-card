@@ -111,6 +111,14 @@ input {
   width: 202%;
 }
 
+.boxes {
+  display: flex;
+}
+
+input#card-number {
+  margin-right: 4px;
+}
+
 @media screen and (min-width: 1200px) {
   body {
     display: flex;
@@ -134,5 +142,9 @@ input {
   .back-of-card {
     position: relative;
     top: 283px;
+  }
+
+  .second-bit {
+    margin-top: 237px;
   }
 }
