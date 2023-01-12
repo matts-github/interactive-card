@@ -115,4 +115,24 @@ input {
   body {
     display: flex;
   }
+
+  body {
+    background: url("../images/bg-main-desktop.png");
+    background-repeat: no-repeat;
+  }
+
+  .purple-background {
+    background-color: hsl(278, 68%, 11%);
+    height: 0px;
+  }
+
+  .the-cards {
+    padding-top: 62px;
+    padding-left: 125px;
+  }
+
+  .back-of-card {
+    position: relative;
+    top: 283px;
+  }
 }
