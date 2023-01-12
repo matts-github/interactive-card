@@ -1,0 +1,112 @@
+/* .attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+} */
+/* body {
+  background-color: #000;
+} */
+
+body {
+  margin: -8px;
+}
+
+.outer-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 265px; */
+}
+
+.purple-card {
+  width: 246px;
+}
+
+/* The circle things */
+
+.the-purple-card {
+  position: relative;
+  top: 93px;
+  margin-left: 16px;
+}
+
+img.circles {
+  margin-top: -125px;
+  width: 65px;
+  margin-left: 18px;
+}
+
+.zero {
+  color: #fff;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 21px;
+}
+
+.jane {
+  margin-top: -10px;
+  margin-left: 10px;
+  color: #fff;
+}
+
+p.date {
+  margin-left: auto;
+  margin-right: 50px;
+  margin-top: -34px;
+  color: #fff;
+}
+
+.back-of-card {
+  width: 250px;
+  /* margin-right: auto; */
+  display: flex;
+  margin-left: auto;
+}
+
+.the-cards {
+  display: flex;
+  flex-direction: column;
+  margin-right: auto;
+  margin-left: auto;
+  width: 280px;
+  padding-top: 32px;
+}
+
+.card-back {
+  display: flex;
+  flex-direction: column;
+}
+/*
+.card-back img {
+  height: 126px;
+  position: absolute;
+  right: 25px;
+} */
+
+.purple-background {
+  background-color: hsl(278, 68%, 11%);
+  height: 235px;
+}
+
+/* Section with white background */
+
+.second-bit {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 296px;
+  margin-top: 124px;
+}
+
+.thanks {
+  visibility: hidden;
+}
+
+form {
+  width: 100%;
+}
+
+input {
+  width: 202%;
+}
